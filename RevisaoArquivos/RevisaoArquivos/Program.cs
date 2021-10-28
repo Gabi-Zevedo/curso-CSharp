@@ -23,7 +23,7 @@ namespace RevisaoArquivos
                         DateTime data = DateTime.Parse(line[1]);
                         set.Add(new Log(nome,data));
                     }
-                    Console.WriteLine("Total users: " + set.Count);
+                    Console.WriteLine($"Usuários totais por dia: {set.Count}");
                 }
             }
             catch (IOException e)

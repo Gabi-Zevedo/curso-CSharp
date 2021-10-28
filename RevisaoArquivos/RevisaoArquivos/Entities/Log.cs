@@ -19,7 +19,7 @@ namespace RevisaoArquivos.Entities
 
         public override int GetHashCode()
         {
-            return Usuario.GetHashCode();
+            return Usuario.GetHashCode() + Data.Day;
         }
 
         public override bool Equals(object obj)
