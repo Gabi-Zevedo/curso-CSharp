@@ -1,0 +1,16 @@
+C:\Gabriel\C#\DesafioInterface\DesafioInterface\bin\Debug\net5.0\DesafioInterface.exe
+C:\Gabriel\C#\DesafioInterface\DesafioInterface\bin\Debug\net5.0\DesafioInterface.deps.json
+C:\Gabriel\C#\DesafioInterface\DesafioInterface\bin\Debug\net5.0\DesafioInterface.runtimeconfig.json
+C:\Gabriel\C#\DesafioInterface\DesafioInterface\bin\Debug\net5.0\DesafioInterface.runtimeconfig.dev.json
+C:\Gabriel\C#\DesafioInterface\DesafioInterface\bin\Debug\net5.0\DesafioInterface.dll
+C:\Gabriel\C#\DesafioInterface\DesafioInterface\bin\Debug\net5.0\ref\DesafioInterface.dll
+C:\Gabriel\C#\DesafioInterface\DesafioInterface\bin\Debug\net5.0\DesafioInterface.pdb
+C:\Gabriel\C#\DesafioInterface\DesafioInterface\obj\Debug\net5.0\DesafioInterface.csproj.AssemblyReference.cache
+C:\Gabriel\C#\DesafioInterface\DesafioInterface\obj\Debug\net5.0\DesafioInterface.GeneratedMSBuildEditorConfig.editorconfig
+C:\Gabriel\C#\DesafioInterface\DesafioInterface\obj\Debug\net5.0\DesafioInterface.AssemblyInfoInputs.cache
+C:\Gabriel\C#\DesafioInterface\DesafioInterface\obj\Debug\net5.0\DesafioInterface.AssemblyInfo.cs
+C:\Gabriel\C#\DesafioInterface\DesafioInterface\obj\Debug\net5.0\DesafioInterface.csproj.CoreCompileInputs.cache
+C:\Gabriel\C#\DesafioInterface\DesafioInterface\obj\Debug\net5.0\DesafioInterface.dll
+C:\Gabriel\C#\DesafioInterface\DesafioInterface\obj\Debug\net5.0\ref\DesafioInterface.dll
+C:\Gabriel\C#\DesafioInterface\DesafioInterface\obj\Debug\net5.0\DesafioInterface.pdb
+C:\Gabriel\C#\DesafioInterface\DesafioInterface\obj\Debug\net5.0\DesafioInterface.genruntimeconfig.cache

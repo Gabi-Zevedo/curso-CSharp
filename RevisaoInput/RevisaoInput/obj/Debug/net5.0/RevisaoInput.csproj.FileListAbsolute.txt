@@ -1,0 +1,16 @@
+C:\Gabriel\C#\RevisaoInput\RevisaoInput\obj\Debug\net5.0\RevisaoInput.csproj.AssemblyReference.cache
+C:\Gabriel\C#\RevisaoInput\RevisaoInput\obj\Debug\net5.0\RevisaoInput.GeneratedMSBuildEditorConfig.editorconfig
+C:\Gabriel\C#\RevisaoInput\RevisaoInput\obj\Debug\net5.0\RevisaoInput.AssemblyInfoInputs.cache
+C:\Gabriel\C#\RevisaoInput\RevisaoInput\obj\Debug\net5.0\RevisaoInput.AssemblyInfo.cs
+C:\Gabriel\C#\RevisaoInput\RevisaoInput\obj\Debug\net5.0\RevisaoInput.csproj.CoreCompileInputs.cache
+C:\Gabriel\C#\RevisaoInput\RevisaoInput\bin\Debug\net5.0\RevisaoInput.exe
+C:\Gabriel\C#\RevisaoInput\RevisaoInput\bin\Debug\net5.0\RevisaoInput.deps.json
+C:\Gabriel\C#\RevisaoInput\RevisaoInput\bin\Debug\net5.0\RevisaoInput.runtimeconfig.json
+C:\Gabriel\C#\RevisaoInput\RevisaoInput\bin\Debug\net5.0\RevisaoInput.runtimeconfig.dev.json
+C:\Gabriel\C#\RevisaoInput\RevisaoInput\bin\Debug\net5.0\RevisaoInput.dll
+C:\Gabriel\C#\RevisaoInput\RevisaoInput\bin\Debug\net5.0\ref\RevisaoInput.dll
+C:\Gabriel\C#\RevisaoInput\RevisaoInput\bin\Debug\net5.0\RevisaoInput.pdb
+C:\Gabriel\C#\RevisaoInput\RevisaoInput\obj\Debug\net5.0\RevisaoInput.dll
+C:\Gabriel\C#\RevisaoInput\RevisaoInput\obj\Debug\net5.0\ref\RevisaoInput.dll
+C:\Gabriel\C#\RevisaoInput\RevisaoInput\obj\Debug\net5.0\RevisaoInput.pdb
+C:\Gabriel\C#\RevisaoInput\RevisaoInput\obj\Debug\net5.0\RevisaoInput.genruntimeconfig.cache

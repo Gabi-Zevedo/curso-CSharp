@@ -1,0 +1,16 @@
+C:\Gabriel\C#\RevisaoEstrutural\RevisaoEstrutural\bin\Debug\net5.0\RevisaoEstrutural.exe
+C:\Gabriel\C#\RevisaoEstrutural\RevisaoEstrutural\bin\Debug\net5.0\RevisaoEstrutural.deps.json
+C:\Gabriel\C#\RevisaoEstrutural\RevisaoEstrutural\bin\Debug\net5.0\RevisaoEstrutural.runtimeconfig.json
+C:\Gabriel\C#\RevisaoEstrutural\RevisaoEstrutural\bin\Debug\net5.0\RevisaoEstrutural.runtimeconfig.dev.json
+C:\Gabriel\C#\RevisaoEstrutural\RevisaoEstrutural\bin\Debug\net5.0\RevisaoEstrutural.dll
+C:\Gabriel\C#\RevisaoEstrutural\RevisaoEstrutural\bin\Debug\net5.0\ref\RevisaoEstrutural.dll
+C:\Gabriel\C#\RevisaoEstrutural\RevisaoEstrutural\bin\Debug\net5.0\RevisaoEstrutural.pdb
+C:\Gabriel\C#\RevisaoEstrutural\RevisaoEstrutural\obj\Debug\net5.0\RevisaoEstrutural.GeneratedMSBuildEditorConfig.editorconfig
+C:\Gabriel\C#\RevisaoEstrutural\RevisaoEstrutural\obj\Debug\net5.0\RevisaoEstrutural.AssemblyInfoInputs.cache
+C:\Gabriel\C#\RevisaoEstrutural\RevisaoEstrutural\obj\Debug\net5.0\RevisaoEstrutural.AssemblyInfo.cs
+C:\Gabriel\C#\RevisaoEstrutural\RevisaoEstrutural\obj\Debug\net5.0\RevisaoEstrutural.csproj.CoreCompileInputs.cache
+C:\Gabriel\C#\RevisaoEstrutural\RevisaoEstrutural\obj\Debug\net5.0\RevisaoEstrutural.dll
+C:\Gabriel\C#\RevisaoEstrutural\RevisaoEstrutural\obj\Debug\net5.0\ref\RevisaoEstrutural.dll
+C:\Gabriel\C#\RevisaoEstrutural\RevisaoEstrutural\obj\Debug\net5.0\RevisaoEstrutural.pdb
+C:\Gabriel\C#\RevisaoEstrutural\RevisaoEstrutural\obj\Debug\net5.0\RevisaoEstrutural.genruntimeconfig.cache
+C:\Gabriel\C#\RevisaoEstrutural\RevisaoEstrutural\obj\Debug\net5.0\RevisaoEstrutural.csproj.AssemblyReference.cache

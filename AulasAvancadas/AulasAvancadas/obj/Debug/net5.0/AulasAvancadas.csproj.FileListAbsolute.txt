@@ -1,0 +1,16 @@
+C:\Gabriel\C#\AulasAvancadas\AulasAvancadas\bin\Debug\net5.0\AulasAvancadas.exe
+C:\Gabriel\C#\AulasAvancadas\AulasAvancadas\bin\Debug\net5.0\AulasAvancadas.deps.json
+C:\Gabriel\C#\AulasAvancadas\AulasAvancadas\bin\Debug\net5.0\AulasAvancadas.runtimeconfig.json
+C:\Gabriel\C#\AulasAvancadas\AulasAvancadas\bin\Debug\net5.0\AulasAvancadas.runtimeconfig.dev.json
+C:\Gabriel\C#\AulasAvancadas\AulasAvancadas\bin\Debug\net5.0\AulasAvancadas.dll
+C:\Gabriel\C#\AulasAvancadas\AulasAvancadas\bin\Debug\net5.0\ref\AulasAvancadas.dll
+C:\Gabriel\C#\AulasAvancadas\AulasAvancadas\bin\Debug\net5.0\AulasAvancadas.pdb
+C:\Gabriel\C#\AulasAvancadas\AulasAvancadas\obj\Debug\net5.0\AulasAvancadas.csproj.AssemblyReference.cache
+C:\Gabriel\C#\AulasAvancadas\AulasAvancadas\obj\Debug\net5.0\AulasAvancadas.GeneratedMSBuildEditorConfig.editorconfig
+C:\Gabriel\C#\AulasAvancadas\AulasAvancadas\obj\Debug\net5.0\AulasAvancadas.AssemblyInfoInputs.cache
+C:\Gabriel\C#\AulasAvancadas\AulasAvancadas\obj\Debug\net5.0\AulasAvancadas.AssemblyInfo.cs
+C:\Gabriel\C#\AulasAvancadas\AulasAvancadas\obj\Debug\net5.0\AulasAvancadas.csproj.CoreCompileInputs.cache
+C:\Gabriel\C#\AulasAvancadas\AulasAvancadas\obj\Debug\net5.0\AulasAvancadas.dll
+C:\Gabriel\C#\AulasAvancadas\AulasAvancadas\obj\Debug\net5.0\ref\AulasAvancadas.dll
+C:\Gabriel\C#\AulasAvancadas\AulasAvancadas\obj\Debug\net5.0\AulasAvancadas.pdb
+C:\Gabriel\C#\AulasAvancadas\AulasAvancadas\obj\Debug\net5.0\AulasAvancadas.genruntimeconfig.cache

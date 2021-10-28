@@ -1,0 +1,16 @@
+C:\Gabriel\C#\RevisaoStatic\RevisaoStatic\bin\Debug\net5.0\RevisaoStatic.exe
+C:\Gabriel\C#\RevisaoStatic\RevisaoStatic\bin\Debug\net5.0\RevisaoStatic.deps.json
+C:\Gabriel\C#\RevisaoStatic\RevisaoStatic\bin\Debug\net5.0\RevisaoStatic.runtimeconfig.json
+C:\Gabriel\C#\RevisaoStatic\RevisaoStatic\bin\Debug\net5.0\RevisaoStatic.runtimeconfig.dev.json
+C:\Gabriel\C#\RevisaoStatic\RevisaoStatic\bin\Debug\net5.0\RevisaoStatic.dll
+C:\Gabriel\C#\RevisaoStatic\RevisaoStatic\bin\Debug\net5.0\ref\RevisaoStatic.dll
+C:\Gabriel\C#\RevisaoStatic\RevisaoStatic\bin\Debug\net5.0\RevisaoStatic.pdb
+C:\Gabriel\C#\RevisaoStatic\RevisaoStatic\obj\Debug\net5.0\RevisaoStatic.csproj.AssemblyReference.cache
+C:\Gabriel\C#\RevisaoStatic\RevisaoStatic\obj\Debug\net5.0\RevisaoStatic.GeneratedMSBuildEditorConfig.editorconfig
+C:\Gabriel\C#\RevisaoStatic\RevisaoStatic\obj\Debug\net5.0\RevisaoStatic.AssemblyInfoInputs.cache
+C:\Gabriel\C#\RevisaoStatic\RevisaoStatic\obj\Debug\net5.0\RevisaoStatic.AssemblyInfo.cs
+C:\Gabriel\C#\RevisaoStatic\RevisaoStatic\obj\Debug\net5.0\RevisaoStatic.csproj.CoreCompileInputs.cache
+C:\Gabriel\C#\RevisaoStatic\RevisaoStatic\obj\Debug\net5.0\RevisaoStatic.dll
+C:\Gabriel\C#\RevisaoStatic\RevisaoStatic\obj\Debug\net5.0\ref\RevisaoStatic.dll
+C:\Gabriel\C#\RevisaoStatic\RevisaoStatic\obj\Debug\net5.0\RevisaoStatic.pdb
+C:\Gabriel\C#\RevisaoStatic\RevisaoStatic\obj\Debug\net5.0\RevisaoStatic.genruntimeconfig.cache

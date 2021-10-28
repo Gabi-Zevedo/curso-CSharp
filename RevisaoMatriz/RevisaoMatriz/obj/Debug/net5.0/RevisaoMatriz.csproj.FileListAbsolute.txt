@@ -1,0 +1,16 @@
+C:\Gabriel\C#\RevisaoMatriz\RevisaoMatriz\bin\Debug\net5.0\RevisaoMatriz.exe
+C:\Gabriel\C#\RevisaoMatriz\RevisaoMatriz\bin\Debug\net5.0\RevisaoMatriz.deps.json
+C:\Gabriel\C#\RevisaoMatriz\RevisaoMatriz\bin\Debug\net5.0\RevisaoMatriz.runtimeconfig.json
+C:\Gabriel\C#\RevisaoMatriz\RevisaoMatriz\bin\Debug\net5.0\RevisaoMatriz.runtimeconfig.dev.json
+C:\Gabriel\C#\RevisaoMatriz\RevisaoMatriz\bin\Debug\net5.0\RevisaoMatriz.dll
+C:\Gabriel\C#\RevisaoMatriz\RevisaoMatriz\bin\Debug\net5.0\ref\RevisaoMatriz.dll
+C:\Gabriel\C#\RevisaoMatriz\RevisaoMatriz\bin\Debug\net5.0\RevisaoMatriz.pdb
+C:\Gabriel\C#\RevisaoMatriz\RevisaoMatriz\obj\Debug\net5.0\RevisaoMatriz.csproj.AssemblyReference.cache
+C:\Gabriel\C#\RevisaoMatriz\RevisaoMatriz\obj\Debug\net5.0\RevisaoMatriz.GeneratedMSBuildEditorConfig.editorconfig
+C:\Gabriel\C#\RevisaoMatriz\RevisaoMatriz\obj\Debug\net5.0\RevisaoMatriz.AssemblyInfoInputs.cache
+C:\Gabriel\C#\RevisaoMatriz\RevisaoMatriz\obj\Debug\net5.0\RevisaoMatriz.AssemblyInfo.cs
+C:\Gabriel\C#\RevisaoMatriz\RevisaoMatriz\obj\Debug\net5.0\RevisaoMatriz.csproj.CoreCompileInputs.cache
+C:\Gabriel\C#\RevisaoMatriz\RevisaoMatriz\obj\Debug\net5.0\RevisaoMatriz.dll
+C:\Gabriel\C#\RevisaoMatriz\RevisaoMatriz\obj\Debug\net5.0\ref\RevisaoMatriz.dll
+C:\Gabriel\C#\RevisaoMatriz\RevisaoMatriz\obj\Debug\net5.0\RevisaoMatriz.pdb
+C:\Gabriel\C#\RevisaoMatriz\RevisaoMatriz\obj\Debug\net5.0\RevisaoMatriz.genruntimeconfig.cache
