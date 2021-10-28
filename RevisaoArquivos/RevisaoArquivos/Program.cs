@@ -1,4 +1,6 @@
-﻿using System;
+﻿using RevisaoArquivos.Entities;
+using System;
+using System.Collections.Generic;
 using System.IO;
 
 namespace RevisaoArquivos
@@ -8,26 +10,24 @@ namespace RevisaoArquivos
         static void Main(string[] args)
         {
             string path = @"C:\Gabriel\C#\RevisaoArquivos\arquivos.txt";
-          
-          
+            HashSet<Log> set = new HashSet<Log>();
+            
             try
             {
-                using (StreamWriter sw = File.AppendText(path))
-                {
-                    sw.WriteLine("TESTEEEEEEEEEEEE");
-                }
                 using (StreamReader sr = File.OpenText(path))
                 {
                     while (!sr.EndOfStream)
                     {
-                        Console.WriteLine(sr.ReadLine());
+                        string[] line = sr.ReadLine().Split(' ');
+                        string nome = line[0];
+                        DateTime data = DateTime.Parse(line[1]);
+                        set.Add(new Log(nome,data));
                     }
+                    Console.WriteLine("Total users: " + set.Count);
                 }
-                
             }
-            catch(IOException e)
+            catch (IOException e)
             {
-                Console.WriteLine("ERRO:");
                 Console.WriteLine(e.Message);
             }
 
